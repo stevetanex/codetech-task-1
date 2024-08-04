@@ -1,4 +1,15 @@
 # codetech-task-1
+Name:STEVE TANEX P
+company:CODTECH IT SOLUTIONS
+ID:CT4DA5250
+Domain:DATA ANALYIST
+Duration:July to  20 August ,2024
+Mentor:Muzammil Ahmed
+Contact: +91 96401 28015 
+
+objective: To analyise the given data set and to represent the given data in simpler form
+
+
 # tweets sentiments analysis
 import tweepy
 import pandas as pd
@@ -57,3 +68,14 @@ plt.title('Sentiment Trends Over Time')
 plt.xlabel('Date')
 plt.ylabel('Number of Tweets')
 plt.show()
+
+
+
+
+![Screenshot 2024-08-01 184842](https://github.com/user-attachments/assets/dc5ec726-f63c-442f-b76a-07a9a7fde757)
+
+
+
+![Screenshot 2024-08-03 222808](https://github.com/user-attachments/assets/03806fcd-2f71-493a-88ca-89d6ba42af95)
+
+
