@@ -1,5 +1,5 @@
 # codetech-task-1
-tweets sentiments analysis
+# tweets sentiments analysis
 import tweepy
 import pandas as pd
 from textblob import TextBlob
