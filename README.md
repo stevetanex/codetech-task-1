@@ -1,14 +1,14 @@
-# codtech task-1
+# codtech task-1 SOCIAL MEDIA SENTIMENT ANALYSIS
 Name:STEVE TANEX P
 Company:CODTECH IT SOLUTIONS
 ID:CT4DA5250
-Domain:DATA ANALYIST
+Domain:DATA ANALYTICS
 Duration:July to 20,August,2024
 Mentor:Muzammil Ahmed
 Contact: +91 96401 28015 
 
-# objective
-perfomed data analysis from the given data set and created  simple data representation in tableau software and charts in spreadsheets 
+# objective topic"task-4  SOCIAL MEDIA SENTIMENT ANALYSIS"
+perfomed data analysis on the topic "tweets sentiment analysis" from the provided data set and created  simple data representation in tableau software and charts in spreadsheets. 
 
 # code
 import tweepy
